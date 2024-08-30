@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "tad_pilha.h": "c",
+        "4_filavazia.h": "c",
+        "pilha.h": "c",
+        "stdio.h": "c",
+        "0_structs.h": "c",
+        "lista.h": "c",
+        "3_desempilharinfo.h": "c",
+        "4_pilhavazia.h": "c",
+        "1_criarpilha.h": "c",
+        "utils.h": "c"
+    }
+}

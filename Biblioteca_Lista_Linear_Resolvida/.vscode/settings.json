@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "8_dividirlista.h": "c",
+        "lista.h": "c",
+        "tad_listalinear.h": "c",
+        "2_incluirinfo.h": "c",
+        "7_duplicarlista.h": "c",
+        "stdlib.h": "c",
+        "0_structs.h": "c",
+        "4_conteminfo.h": "c",
+        "3_1_excluirinfopos.h": "c",
+        "5_imprimirlista.h": "c"
+    }
+}
